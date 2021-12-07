@@ -1,5 +1,5 @@
-# DTSA_5301
-Repo contains projects associated with DTSA 5301
+# Data Science as a Field - NYC shooting incidents
+Repo contains the markdown file, pdf, and the powerpoint presentation for the NYC shooting incidents analysis
 
 ---
 title: "NYPD Shooting Incident Data Report"
