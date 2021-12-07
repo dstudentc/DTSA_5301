@@ -1,5 +1,5 @@
 # Data Science as a Field - NYC shooting incidents
-Repo contains the markdown file, pdf, and the powerpoint presentation for the NYC shooting incidents analysis
+Repo contains the markdown file, markdown pdf, and the presentation pdf for the NYC shooting incidents analysis
 
 For this assignment we are exploring historical shooting incidents that occurred in New York City from 2006 - 2020. The data comes from data.gov website and was collected by the New York City police department. 
 
