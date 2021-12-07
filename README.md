@@ -1,19 +1,6 @@
 # Data Science as a Field - NYC shooting incidents
 Repo contains the markdown file, pdf, and the powerpoint presentation for the NYC shooting incidents analysis
 
----
-title: "NYPD Shooting Incident Data Report"
-output:
-  pdf_document: default
-  html_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Data Science as a Field - Week 3 Assignment 
-
 For this assignment we are exploring historical shooting incidents that occurred in New York City from 2006 - 2020. The data comes from data.gov website and was collected by the New York City police department. 
 
 We will explore the data to determine dangerous boroughs in New York City and also see if we are able to model the number of gun related deaths.
